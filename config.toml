@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en"
+title = "Nhà Dinh Dưỡng"
+theme = "dream"
+
+[params]
+	author = "Nhà Dinh Dưỡng"
+	motto = "dinh dưỡng cho cuộc sống tốt hơn"
+	avatar = "/img/logo.png"
+
+	siteStartYear = 2020
